@@ -1,6 +1,6 @@
 import React from 'react'
 
-const LinkedinPreview = () => {
+const LinkedinPreview = ({metadata}) => {
   return (
     <div>LinkedinPreview</div>
   )

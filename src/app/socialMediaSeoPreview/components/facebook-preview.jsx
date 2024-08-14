@@ -1,8 +1,8 @@
 import React from 'react'
 
-const FacebookPreview = () => {
+const FacebookPreview = ({metadata}) => {
   return (
-    <div>FacebookPreview</div>
+    <div>{JSON.stringify(metadata)}</div>
   )
 }
 

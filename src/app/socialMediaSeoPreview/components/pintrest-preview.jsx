@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PintrestPreview = () => {
+const PintrestPreview = ({metadata}) => {
   return (
     <div>PintrestPreview</div>
   )

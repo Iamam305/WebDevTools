@@ -1,6 +1,6 @@
 import React from 'react'
 
-const TwitterPreview = () => {
+const TwitterPreview = ({metadata}) => {
   return (
     <div>TwitterPreview</div>
   )
